@@ -80,3 +80,11 @@ F0:48:2E:D2:5D:7A:1A:F8:E1:62:F3:A3:46:E6:97:E2:88:84:E0:05:36:6E:22:43:A5:D2:25
 ```
 
 Si no coincide, el archivo no salió de aquí.
+
+## Licencia
+
+Software propietario: se publica el binario, no el código. Puedes instalarlo y usarlo, y
+redistribuir el APK sin modificar. Los detalles, en [LICENSE](LICENSE).
+
+El uso del servicio —cuenta, sincronización y planes de pago— se rige por los Términos y
+Condiciones y la Política de Privacidad que la propia app muestra al registrarte.

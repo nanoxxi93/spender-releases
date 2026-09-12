@@ -1,0 +1,70 @@
+Copyright (c) 2026 Hernando Javier Arima Arce. Todos los derechos reservados.
+Copyright (c) 2026 Hernando Javier Arima Arce. All rights reserved.
+
+--------------------------------------------------------------------------------
+ESPAÑOL
+--------------------------------------------------------------------------------
+
+Este repositorio distribuye compilaciones binarias de la aplicación Spender. El
+código fuente no se publica y esta licencia no concede ningún derecho sobre él.
+
+SE PERMITE
+
+  - Descargar e instalar la aplicación y usarla en tus dispositivos.
+  - Redistribuir el archivo APK sin modificar, conservando este aviso.
+
+NO SE PERMITE, salvo autorización escrita del titular
+
+  - Modificar, descompilar o aplicar ingeniería inversa a la aplicación.
+  - Distribuir versiones modificadas, o versiones firmadas con otra clave.
+  - Usar el nombre "Spender" o sus marcas para identificar otro producto.
+
+Quedan a salvo los derechos que la ley aplicable conceda con carácter imperativo
+y no pueda excluir esta licencia, como los actos necesarios para lograr la
+interoperabilidad con otros programas.
+
+El uso del servicio —cuentas, sincronización con el servidor y planes de pago— se
+rige además por los Términos y Condiciones y la Política de Privacidad que la
+propia aplicación muestra y que se aceptan al crear una cuenta. En lo relativo al
+servicio, esos documentos prevalecen sobre este.
+
+LA APLICACIÓN SE ENTREGA "TAL CUAL", SIN GARANTÍA DE NINGÚN TIPO, EXPRESA O
+IMPLÍCITA, INCLUIDAS SIN LIMITACIÓN LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD
+PARA UN FIN DETERMINADO Y NO INFRACCIÓN. EL TITULAR NO RESPONDE DE NINGUNA
+RECLAMACIÓN, DAÑO NI OTRA RESPONSABILIDAD DERIVADA DE LA APLICACIÓN O DE SU USO.
+ES UNA HERRAMIENTA DE REGISTRO PERSONAL, NO ASESORAMIENTO FINANCIERO, Y NO
+SUSTITUYE A TUS PROPIOS REGISTROS NI A LOS DE TU BANCO.
+
+--------------------------------------------------------------------------------
+ENGLISH
+--------------------------------------------------------------------------------
+
+This repository distributes binary builds of the Spender application. The source
+code is not published, and this license grants no rights over it.
+
+YOU MAY
+
+  - Download and install the application and use it on your own devices.
+  - Redistribute the APK file unmodified, keeping this notice with it.
+
+YOU MAY NOT, without the copyright holder's written permission
+
+  - Modify, decompile, or reverse engineer the application.
+  - Distribute modified versions, or versions signed with a different key.
+  - Use the name "Spender" or its marks to identify another product.
+
+Rights granted to you by applicable law that this license cannot exclude are
+unaffected, such as acts required to achieve interoperability with other
+programs.
+
+Use of the service — accounts, server sync, and paid plans — is further governed
+by the Terms and Conditions and the Privacy Policy shown in the application and
+accepted when creating an account. As to the service, those documents prevail
+over this one.
+
+THE APPLICATION IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. THE COPYRIGHT HOLDER SHALL NOT BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE APPLICATION OR
+ITS USE. IT IS A PERSONAL RECORD-KEEPING TOOL, NOT FINANCIAL ADVICE, AND IT DOES
+NOT REPLACE YOUR OWN RECORDS OR YOUR BANK'S.
