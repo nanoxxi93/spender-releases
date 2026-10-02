@@ -3,6 +3,16 @@
 Lo que cambia en cada versión de Spender, para quien la usa. El formato sigue
 [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y las versiones, [SemVer](https://semver.org/lang/es/).
 
+## [1.0.3] — 2026-10-02
+
+Corrige el aviso de error al iniciar sesión y estandariza los mensajes mostrados en pantalla.
+
+### Corregido
+
+- **El inicio de sesión ahora avisa claramente si la contraseña o correo son incorrectos.** Antes, al introducir una contraseña equivocada, la pantalla se recargaba en silencio sin mostrar ninguna explicación y borrando lo escrito. Ahora muestra de inmediato un aviso claro ("Correo o contraseña incorrectos") y mantiene los datos del formulario para que puedas corregirlos.
+- **Los avisos de error ya no muestran textos técnicos ni código interno.** Se eliminaron los mensajes que aparecían con prefijos como `[PATCH]`, `[POST]` o fragmentos de direcciones web, sustituyéndolos por explicaciones sencillas y comprensibles tanto en español como en inglés.
+- **Los avisos al intentar registrar elementos duplicados son claros y precisos.** Al intentar guardar una cuenta, categoría, beneficiario, proyecto o moneda con un nombre que ya existe, la aplicación muestra directamente qué elemento está repetido en lugar de un código de error de base de datos.
+
 ## [1.0.2] - 2026-09-24
 
 Soluciona problemas de sincronización al editar registros sin conexión a internet.
